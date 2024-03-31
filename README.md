@@ -11,7 +11,7 @@ leader u => undotree
 
 ctrl + w => go to other windows
 
-Harpoon
+## Harpoon
 ctrl + e => harpoon list
 
 ctrl + a => add file to harpoon
