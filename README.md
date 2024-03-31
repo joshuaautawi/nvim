@@ -1,4 +1,4 @@
-
+## Syntax
 ff => find file
 =G => indent all file ffn
 gd => go to function definition
